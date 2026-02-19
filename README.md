@@ -1,3 +1,5 @@
+<img width="1095" height="771" alt="{9BB1263F-0D24-4F91-A43A-DB5A4D2E16BB}" src="https://github.com/user-attachments/assets/21b80da7-c12d-46a1-8735-10cdf27c2147" />
+
 🔊 Text-to-Speech Converter
 
 A simple and interactive Text-to-Speech web application that converts user input into spoken audio using the Web Speech API. Built with pure frontend technologies, this project demonstrates real-time speech synthesis, DOM manipulation, and modern UI design.
